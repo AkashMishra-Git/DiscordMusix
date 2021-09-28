@@ -1,6 +1,6 @@
 <h1 align="center"><img src="./assets/logo.gif" width="30px"> Discord Music Bot <img src="./assets/logo.gif" width="30px"></h1>
-<p align="center">Coded by Akash Mishra</p>
-
+<p align="center">Coded by Akash Mishra with hearts. Thank you for your love and support</p>
+ 
 ## ✨Latest Updates✨
 
 > **DISCORD.JS v13 WILL BREAK THIS BOT. DO NOT USE IT UNTIL v5 IS OUT.**
@@ -19,9 +19,9 @@
 
 ## 📝 Tutorial
 
-A Tutorial has been uploaded on YouTube, Watch it by clicking [here](https://www.youtube.com/watch?v=p4lP96Tiv9s)
+A Tutorial has been uploaded on YouTube, Watch it by clicking [here](https://www.youtube.com/c/mruncommonx)
 
-## 📝 [Support Server](https://discord.gg/sbySMS7m3v)
+## 📝 [Support Server](https://discord.gg/SchEbTFaNM)
 
 ### **DO NOT JOIN OUR DISCORD FOR DASHBOARD ISSUES AND LAVALINK ISSUES. WE WILL NOT HELP YOU.**
 
@@ -33,19 +33,5 @@ If you have major coding issues with this bot, please join and ask for help.
 
 <div align="center"><img src="/assets/Features.png"></div>
 
-## 💨 Run the projects
-
-[![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/SudhanPlayz/Discord-MusicBot) <br><br>
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SudhanPlayz/Discord-MusicBot) <br><br>
-[![Run on Repl.it](https://repl.it/badge/github/SudhanPlayz/Discord-MusicBot)](https://repl.it/github/SudhanPlayz/Discord-MusicBot)
-
-
-## ✨ Contributors
-
-Contributions are always welcomed :D Make sure to follow [Contributing.md](/CONTRIBUTING.md)
-
-<a href="https://github.com/SudhanPlayz/Discord-MusicBot/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=SudhanPlayz/Discord-MusicBot" />
-</a>
 
 Made with :heart: and JavaScript!
