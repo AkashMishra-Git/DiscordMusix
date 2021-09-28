@@ -1,16 +1,16 @@
 module.exports = {
   Admins: ["668818456673779737"], //Admins of the bot
   ExpressServer: true,//If you wanted to make the website run or not
-  DefaultPrefix: process.env.Prefix || ">", //Default prefix, Server Admins can change the prefix
+  DefaultPrefix: process.env.Prefix || "-", //Default prefix, Server Admins can change the prefix
   Port: 3000, //Which port website gonna be hosted
   SupportServer: "https://discord.gg/SchEbTFaNM", //Donot change..
-  Token: process.env.Token || "ODEyOTM5Mzk1ODY2MDM0MjA4.YDICzw.X9Ke-8E5tKXr45js9LDtetMtXj", //Discord Bot Token
-  ClientID: process.env.Discord_ClientID || "Your_Client_Id_Here", //Discord Client ID
-  ClientSecret: process.env.Discord_ClientSecret || "Your_Client_Secret_Here", //Discord Client Secret
+  Token: process.env.Token || "Nzk1ODc0MDgzNDU5NTYzNTYx.X_PtgA.z2ASeqb5pWcG3jQmTwXL-Z-HJIk", //Discord Bot Token
+  ClientID: process.env.Discord_ClientID || "795874083459563561", //Discord Client ID
+  ClientSecret: process.env.Discord_ClientSecret || "NpMwTlhQC73aVCHIVFnZDIER7g_Dqrpk", //Discord Client Secret
   Scopes: ["identify", "guilds", "applications.commands"], //Discord OAuth2 Scopes
   CallbackURL: "/api/callback", //Discord OAuth2 Callback URL
   "24/7": false, //If you want the bot to be stay in the vc 24/7
-  CookieSecret: "YourTokenSecurity", //Safety for your bot its like a password
+  CookieSecret: "Secure", //Safety for your bot its like a password
   IconURL:
     "https://raw.githubusercontent.com/SudhanPlayz/Discord-MusicBot/master/assets/logo.gif", //URL of all embed author icons | Dont edit unless you dont need that Music CD Spining
   EmbedColor: "RANDOM", //Color of most embeds | Dont edit unless you want a specific color instead of a random one each time
@@ -29,7 +29,7 @@ module.exports = {
 
   //Please go to https://developer.spotify.com/dashboard/
   Spotify: {
-    ClientID: process.env.Spotify_ClientID || "Spotify_Client_ID", //Spotify Client ID
-    ClientSecret: process.env.Spotify_ClientSecret || "Spotify_Client_Secret", //Spotify Client Secret
+    ClientID: process.env.Spotify_ClientID || "c60652f174c4462ab973acfbf650010a", //Spotify Client ID
+    ClientSecret: process.env.Spotify_ClientSecret || "5a417565c72545cf83711bbb84dd39f4", //Spotify Client Secret
   },
 };
