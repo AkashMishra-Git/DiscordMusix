@@ -29,7 +29,10 @@ If you have major coding issues with this bot, please join and ask for help.
 
 
 Made with :heart: and JavaScript!
-Copyright © by MrUncommonX. All rights Reserved. /nUnfair use of the bot or use without Credits may lead to Ban of Discord Server..
+Copyright © by MrUncommonX. All rights Reserved.
+
+Unfair use of the bot or use without Credits may lead to Ban of Discord Server..
+
 
 ## Support us
 - [Youtube](https://youtube.com/channel/UCP7VAGyM2qnZYDRlgoMDp2Q)
