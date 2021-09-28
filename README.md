@@ -27,11 +27,10 @@ A Tutorial has been uploaded on YouTube, Watch it by clicking [here](https://www
 
 If you have major coding issues with this bot, please join and ask for help.
 
-## 📸 Screenshots
-
-<div align="left"><img src="/assets/Screenshot_1.png"></div><div align="center"><img src="/assets/Screenshot_2.png"></div><div align="right"><img src="/assets/Screenshot_3.png"></div>
-
-<div align="center"><img src="/assets/Features.png"></div>
-
 
 Made with :heart: and JavaScript!
+Copyright © by MrUncommonX. All rights Reserved. Unfair use of the bot or use without Credits may lead to Ban of Discord Server..
+
+## Support us
+- [Youtube](https://youtube.com/channel/UCP7VAGyM2qnZYDRlgoMDp2Q)
+- [Make a small Donation](https://pmny.in/qI5k68R5AeTy)
