@@ -19,7 +19,7 @@
 
 ## 📝 Tutorial
 
-A Tutorial has been uploaded on YouTube, Watch it by clicking [here](https://www.youtube.com/c/mruncommonx)
+A Tutorial has been uploaded on YouTube, Watch it by clicking [here](https://youtu.be/NztFJ8zW4Ww)
 
 ## 📝 [Support Server](https://discord.gg/SchEbTFaNM)
 
